@@ -57,7 +57,7 @@ html {
   border-radius: 2rem;
   text-indent: 4rem;
   font-size: 1.6rem;
-  background: url(images/google-search.png) 13px no-repeat,
+  background: url(images/google-search.png) 1.3rem no-repeat,
     url(images/google-mic.png) 55rem no-repeat;
   background-size: 3%;
 }
